@@ -14,7 +14,7 @@ foreach (Student st in
     Console.WriteLine(st.Name);
 }
 
-IStudetnService GetService(TypeContent type)
+IStudetnService GetService(TypeContent type = TypeContent.Mock)
 {
     switch (type)
     {
