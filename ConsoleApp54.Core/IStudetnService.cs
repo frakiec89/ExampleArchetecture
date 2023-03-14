@@ -8,7 +8,6 @@ namespace ConsoleApp54.Core
 {
     public  interface IStudetnService
     {
-        List<Student> Students 
-        { get; set; }
+        List<Student> Students      { get; set; }
     }
 }

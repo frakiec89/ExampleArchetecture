@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\ConsoleApp54.Content2\ConsoleApp54.Content2.csproj" />
     <ProjectReference Include="..\ConsoleApp54.Core\ConsoleApp54.Core.csproj" />
     <ProjectReference Include="..\ConsoleApp54.DB_Mock\ConsoleApp54.DB_Mock.csproj" />
   </ItemGroup>
