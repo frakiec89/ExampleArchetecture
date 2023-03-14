@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ConsoleApp54.Core\ConsoleApp54.Core.csproj" />
+  </ItemGroup>
+
 </Project>
